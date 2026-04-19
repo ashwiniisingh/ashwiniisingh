@@ -1,3 +1,2 @@
-<h1>👋 Hi, I'm Ashwini  🎓 MCA Student 💻 Aspiring Full Stack Developer 🚀 Currently learning: React, Node.js, MongoDB  ---  🛠️ Tech Stack  - 💡 Languages: Java, JavaScript - 🌐 Frontend: React.js, HTML, CSS - ⚙️ Backend: Node.js, Express.js - 🗄️ Database: MongoDB  ---  📌 Projects  - 🔹 To-Do App (React) - 🔹 Student Manager System (Node + MongoDB) - 🔹 DSA Practice (Java)  ---  📈 Goals  - 🔥 Build 5+ real-world projects - 📚 Master DSA for placements - 🌍 Become Full Stack Developer  ---  📫 Connect with Me  - LinkedIn: https://www.linkedin.com/in/ashwiniisingh</h1>
-<p>A passionate frontend developer from </p>
+
 
